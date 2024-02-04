@@ -1,4 +1,6 @@
 # MAGDI: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models
+[Justin Chih-Yao Chen](https://dinobby.github.io/)\*, [Swarnadeep Saha](https://swarnahub.github.io/)\*, [Elias Stengel-Eskin](https://esteng.github.io/), and [Mohit Bansal](https://www.cs.unc.edu/~mbansal/) (\*equal contribution).
+
 ![Image](https://i.imgur.com/alEYjUs.png)
 
 ## Installation
